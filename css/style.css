@@ -878,14 +878,14 @@ ol {
 	font-size: 90px;
 	color: #ffffff;
 	font-family: "Rockville Solid Regular";
-	color: #ffffff;
+	color: #008000;
 	margin-bottom: 25px;
 }
 
 .countdown__text h4 {
 	font-size: 26px;
 	font-family: "Now Regular";
-	color: #ffffff;
+	color: #5c00ce;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 }
