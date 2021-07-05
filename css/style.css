@@ -409,7 +409,7 @@ ol {
 }
 
 .hero__text span {
-	color: #ffffff;
+	color: #fffaaa;
 	text-transform: uppercase;
 	letter-spacing: 6px;
 }
@@ -417,7 +417,7 @@ ol {
 .hero__text h1 {
 	font-size: 110px;
 	font-family: "Rockville Solid Regular";
-	color: #ffffff;
+	color: #008000;
 	margin-bottom: 20px;
 	margin-top: 22px;
 }
